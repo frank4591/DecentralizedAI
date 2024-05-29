@@ -1,6 +1,4 @@
- Sharing Updatable Models (SUM) on Blockchain
-(formerly Decentralized & Collaborative AI on Blockchain)
-
+Collaborative Update Model
 <img src="./assets/logo.gif?raw=true" width=500 alt="Animated logo for the project. A neural network appears on a block. The nodes change color until finally converging. The block slides away on a chain and the process restarts on the next blank block.">
 
 <!-- Put horizontally since build status badges are normally horizontal. -->
@@ -8,7 +6,7 @@
 
 
 
-**Sharing Updatable Models (SUM) on Blockchain** is a framework to host and train publicly available machine learning models.
+**Collaborative Update Model** is a framework to host and train publicly available machine learning models.
 Ideally, using a model to get a prediction is free.
 Adding data consists of validation by three steps as described below.
 
@@ -43,7 +41,6 @@ Some of those proposals are not in the true spirit of this system which is to sh
 At least the data would be shared so others can still use it to train their own models.
 
 ## Will transaction fees be too high?
-Fees in Ethereum are low enough for simple models: a few cents as of July 2019.
 Simple machine learning models are good for many applications.
 As described the previous answer, there are ways to keep transactions simple.
 Fees are decreasing: Ethereum is switching to proof of stake.
@@ -71,10 +68,4 @@ People will contribute data to help improve the machine learning models they use
 Profit depends on the incentive mechanism (IM).
 Yes, in Deposit, Refund, and Take: Self-Assessment, the contributors will not profit and should be able to claim back their own deposits.
 In the Prediction Market based mechanism, contributors can still get rewarded by the original provider of the bounty and test set.
-
-
-## Papers
-More details can be found in our initial paper, [Decentralized & Collaborative AI on Blockchain][overview-paper], which describes the framework, accepted to Blockchain-2019, The IEEE International Conference on Blockchain.
-
-An analysis of several machine learning models with the self-assessment incentive mechanism can be found in our second paper, [Analysis of Models for Decentralized and Collaborative AI on Blockchain][self-assessment-analysis-paper], which was accepted to [The 2020 International Conference on Blockchain](http://blockchain1000.org/2020/).
 
